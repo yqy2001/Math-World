@@ -4,6 +4,6 @@ chapter 1, 4 by qiying
 
 chapter 2, 5 by minji
 
-chapter 3, 6 by jieming
+chapter 3, 6, 9 by jieming
 
 chapter 19, 20, 21 by tian
